@@ -18,3 +18,7 @@ Allowed options:
   -revert: revert previously applied patches
   -force:  apply/revert patches even if patch locations contain unexpected data
 ```
+
+Download
+--------
+[Latest release](https://github.com/chausner/1337patch/releases/latest)
